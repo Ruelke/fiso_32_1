@@ -1555,3 +1555,95 @@ body {
 .cid-qP27HDXMlY B {
   color: #efefef;
 }
+.cid-qP2cW2V3o5 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
+}
+.cid-qP2cW2V3o5 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qP2cW2V3o5 .container-table {
+  margin: 0 auto;
+}
+.cid-qP2cW2V3o5 .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-qP2cW2V3o5 .dataTables_wrapper {
+  display: block;
+}
+.cid-qP2cW2V3o5 .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-qP2cW2V3o5 .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-qP2cW2V3o5 table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #767676;
+  margin-bottom: 0;
+}
+.cid-qP2cW2V3o5 table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-qP2cW2V3o5 table th:hover {
+  background: #767676;
+  color: #ffffff;
+}
+.cid-qP2cW2V3o5 table td {
+  border-top: 1px solid #767676;
+}
+.cid-qP2cW2V3o5 table.table {
+  background: #ffffff;
+}
+.cid-qP2cW2V3o5 .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-qP2cW2V3o5 .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-qP2cW2V3o5 .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-qP2cW2V3o5 .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-qP2cW2V3o5 .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-qP2cW2V3o5 .dataTables_filter {
+    text-align: center;
+  }
+  .cid-qP2cW2V3o5 .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-qP2cW2V3o5 .body-item {
+  text-align: center;
+}
+.cid-qP2cW2V3o5 .head-item {
+  color: #232323;
+  text-align: center;
+}
+.cid-qP2cW2V3o5 .mbr-section-title {
+  color: #efefef;
+}
+.cid-qP2cW2V3o5 .mbr-section-subtitle B {
+  color: #006374;
+}

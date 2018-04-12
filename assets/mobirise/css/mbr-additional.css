@@ -1757,9 +1757,9 @@ body {
   background-image: url("../../../assets/images/mbr-1620x1080.jpg");
 }
 .cid-qP21JRVos8 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: url("../../../assets/images/background2.jpg");
 }
 .cid-qP21JRVos8 .mbr-section-subtitle {
   color: #767676;
@@ -1842,4 +1842,7 @@ body {
   .cid-qP21JRVos8 .period {
     font-size: 0.8rem;
   }
+}
+.cid-qP21JRVos8 H2 {
+  color: #a503fc;
 }
